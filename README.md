@@ -12,7 +12,7 @@ Build 2025 experience
 
 Check out 50th Min — [KeyNote Video](https://youtu.be/5sM3JguEMzQ)
 
-[![KeyNote Video]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtu.be/5sM3JguEMzQ) "Keynote Video")
+[![Watch the video](https://img.youtube.com/vi/5sM3JguEMzQ/0.jpg)](https://youtu.be/5sM3JguEMzQ)
 
 ### Accenture Customer Story
 
