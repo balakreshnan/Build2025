@@ -14,6 +14,11 @@ Check out 50th Min — [KeyNote Video](https://youtu.be/5sM3JguEMzQ)
 
 [![Watch the video](https://img.youtube.com/vi/5sM3JguEMzQ/0.jpg)](https://youtu.be/5sM3JguEMzQ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sM3JguEMzQ" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
 ### Accenture Customer Story
 
 [Customer Story]https://www.microsoft.com/en/customers/story/23953-accenture-azure-ai-foundry
