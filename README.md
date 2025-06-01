@@ -10,7 +10,9 @@ Build 2025 experience
 
 ### Accenture Keynote for RedTeam
 
-Check out 50th Min — [KeyNote Vide](https://youtu.be/5sM3JguEMzQ)
+Check out 50th Min — [KeyNote Video](https://youtu.be/5sM3JguEMzQ)
+
+[![KeyNote Video]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtu.be/5sM3JguEMzQ) "Keynote Video")
 
 ### Accenture Customer Story
 
